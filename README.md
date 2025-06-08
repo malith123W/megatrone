@@ -18,7 +18,7 @@ Megatrone is a line follower project implemented in C++. This repository contain
 - PWM (Pulse Width Modulation) used for smooth and precise motor speed control.
 - Direction and speed logic implemented for various maneuvers (straight, turns, stop).
   
-###Algorithm:
+### Algorithm:
 - Implements a line-following algorithm (such as proportional, differential, or PID control) for accurate path tracking.
 - Error calculation and correction based on sensor readings.
   
@@ -33,3 +33,8 @@ Megatrone is a line follower project implemented in C++. This repository contain
 ### Expandability:
 - Easy to integrate additional sensors (e.g., obstacle sensors) or new features.
 - Modular design allows for future enhancements and code reuse.
+
+## 
+## 
+![WhatsApp Image 2025-06-08 at 17 17 36_961f76de](https://github.com/user-attachments/assets/6cd45e78-4ba9-4425-86c1-964393a28a11)
+
